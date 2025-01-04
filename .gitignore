@@ -1,1 +1,2 @@
 .env
+python-ai-chatbot/__pycache__/**/*.pyc
